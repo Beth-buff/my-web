@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <pattern id="lines" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 24 24 0" stroke="#171814" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#f4efe4"/>
+  <rect width="1200" height="630" fill="url(#lines)"/>
+  <circle cx="952" cy="230" r="232" fill="#e7542e"/>
+  <circle cx="952" cy="230" r="178" fill="none" stroke="#f4efe4" stroke-opacity=".55"/>
+  <path d="M0 520c170-60 312-18 452-44s248 8 380-20 218-12 368 30v144H0Z" fill="#171814"/>
+  <g fill="#171814" font-family="Songti SC, STSong, SimSun, serif">
+    <text x="74" y="240" font-size="112" font-weight="600" letter-spacing="-4">Beth_buff</text>
+    <text x="80" y="314" font-size="32" font-family="Cascadia Code, monospace" letter-spacing="9">VIDEO CREATOR / BILIBILI UP</text>
+    <text x="80" y="396" font-size="36" letter-spacing="2">把脑洞，做成视频。</text>
+  </g>
+  <g fill="#f4efe4" font-family="Cascadia Code, monospace" font-size="18" letter-spacing="4">
+    <text x="80" y="560">BETH_BUFF'S SPACE</text>
+    <text x="80" y="590">MC ANIMATION · GAMING · PV</text>
+    <text x="1020" y="560">CHINA · UTC+8</text>
+    <text x="1020" y="590">EST. 2026</text>
+  </g>
+  <g fill="#f4efe4" font-family="Songti SC, STSong, SimSun, serif" font-size="78" font-weight="600">
+    <text x="912" y="272" font-size="112">B</text>
+  </g>
+  <rect width="1200" height="630" filter="url(#grain)" opacity=".08"/>
+</svg>

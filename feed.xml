@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beth_buff 的个人空间 · 创作手记</title>
+    <link>https://beth-buff-space.netlify.app/</link>
+    <description>Beth_buff 的创作手记：关于 MC 动画、剪辑、脑洞和那些熬夜的夜晚。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Nov 2026 12:00:00 +0800</lastBuildDate>
+    <atom:link href="https://beth-buff-space.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>一个 MC 动画，从脑洞到成片要多久</title>
+      <link>https://beth-buff-space.netlify.app/#notes</link>
+      <guid isPermaLink="false">bethbuff-note-dawn-20261102</guid>
+      <category>制作手记</category>
+      <pubDate>Sun, 02 Nov 2026 12:00:00 +0800</pubDate>
+      <description><![CDATA[最开始只是脑子里闪过的一个画面：两个方块人站在雨里，其中一个把剑收了起来。没有台词，也没有前因后果，但那个画面一直没散。]]></description>
+    </item>
+    <item>
+      <title>做视频第 N 年，我还在和节奏较劲</title>
+      <link>https://beth-buff-space.netlify.app/#notes</link>
+      <guid isPermaLink="false">bethbuff-note-ethics-20261018</guid>
+      <category>剪辑</category>
+      <pubDate>Sun, 18 Oct 2026 10:30:00 +0800</pubDate>
+      <description><![CDATA[剪辑最迷人的地方，是你以为自己在讲故事，其实是在控制观众什么时候呼吸。一个镜头多停 8 帧，感觉就完全不一样。]]></description>
+    </item>
+    <item>
+      <title>我为什么总在做一些「没用」的整活</title>
+      <link>https://beth-buff-space.netlify.app/#notes</link>
+      <guid isPermaLink="false">bethbuff-note-walk-20260927</guid>
+      <category>随想</category>
+      <pubDate>Sun, 27 Sep 2026 20:10:00 +0800</pubDate>
+      <description><![CDATA[有些视频做出来，既不带货，也不涨粉，甚至很难用一句话解释它到底在讲什么。但我还是想做。]]></description>
+    </item>
+    <item>
+      <title>设备不重要，但硬盘真的很重要</title>
+      <link>https://beth-buff-space.netlify.app/#notes</link>
+      <guid isPermaLink="false">bethbuff-note-gear-20260910</guid>
+      <category>器材</category>
+      <pubDate>Thu, 10 Sep 2026 18:00:00 +0800</pubDate>
+      <description><![CDATA[我曾经相信，换一台更好的电脑就能做出更好的动画。后来发现，渲染速度是快了，片子该卡住的地方还是卡住。]]></description>
+    </item>
+  </channel>
+</rss>
